@@ -1,0 +1,13 @@
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\bin\Debug\netcoreapp3.1\WorkingWitsString.exe
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\bin\Debug\netcoreapp3.1\WorkingWitsString.deps.json
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\bin\Debug\netcoreapp3.1\WorkingWitsString.runtimeconfig.json
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\bin\Debug\netcoreapp3.1\WorkingWitsString.runtimeconfig.dev.json
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\bin\Debug\netcoreapp3.1\WorkingWitsString.dll
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\bin\Debug\netcoreapp3.1\WorkingWitsString.pdb
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\obj\Debug\netcoreapp3.1\WorkingWitsString.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\obj\Debug\netcoreapp3.1\WorkingWitsString.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\obj\Debug\netcoreapp3.1\WorkingWitsString.AssemblyInfo.cs
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\obj\Debug\netcoreapp3.1\WorkingWitsString.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\obj\Debug\netcoreapp3.1\WorkingWitsString.dll
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\obj\Debug\netcoreapp3.1\WorkingWitsString.pdb
+C:\Users\Olga\source\repos\WorkingWitsString\WorkingWitsString\obj\Debug\netcoreapp3.1\WorkingWitsString.genruntimeconfig.cache
